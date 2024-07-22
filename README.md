@@ -1,1 +1,1 @@
--Study project, building a BMI calculator in reaction
+-Study project, building a BMI calculator in react.js
